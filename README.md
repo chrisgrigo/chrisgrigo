@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrisgrigo
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently working  @National Bank of Greece in Data Analytics, Information Systems & Infra Audits and Cyber Security
-- 💞️ I’m looking to collaborate on innovative business ideas &| Web3 Projects
-- 📫 Reach me @chrisgrigo Discord.
+- 👀 I’m interested in **Software Development**
+- 🌱 I’m currently working  **@National Bank of Greece** in _Data Analytics, Information Systems & Infra Audits and Cyber Security_
+- 💞️ I’m looking to collaborate on **innovative** business ideas &| **Web3** Projects
+- 📫 Reach me **@chrisgrigo Discord**.
